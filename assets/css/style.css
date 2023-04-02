@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* header {
+    background-image: url(/assets/imgs/alvan-nee-T-0EW-SEbsE-unsplash.jpg);
+} */
+
+.header {
+    height: 30em;
+    background-color: rgba(0, 0, 0, 0.652);
+    background-image: url(/assets/imgs/alvan-nee-T-0EW-SEbsE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    }
+ .borde{
+
+    padding: 300px;
+}
+
+.header h1{
+    
+    padding-top: 2em ;
+    font-size: 100px;
+    text-align: center;
+    color: #ffffff;
+ }
+
+ .header p{
+
+    text-align: center;
+    font-size: 1.5em;
+    color: #ffffff;
+ }
+ 
+
+.productos{
+    display: flex;
+}
+
+img{
+    width: 550px;
+    height: 550px;
+    padding-top: 80px;
+}
+.noticia {
+
+    margin-top: 75px;
+    margin-left: 100px;
+    text-align: justify;
+}
+
+.parrafo-1{
+
+   margin-top: 200px;
+   
+}
+
+.parrafo-2{
+    margin-top: 500px;
+}
+
+.parrafo-3{
+    margin-top: 500px;
+}
+h2{
+    padding-bottom: 12px;
+    
+}
+
+.footer{
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+h3{
+    color: #ffe607;
+    padding-bottom: 20px;
+}
+
+.foter-texto-lef{
+    padding-left: 200px;
+}
+.foter-texto-right{
+    padding-left: 300px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
